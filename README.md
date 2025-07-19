@@ -2,7 +2,7 @@
 
 C:\Users\ASUS\Pictures\Screenshots\Screenshot 2025-07-19 172644.png
 
-A simple and clean **Event Calendar** web app that allows users to **add, view, and manage events with notes**. Built with pure **HTML, CSS, and JavaScript**—no frameworks, no libraries.
+A simple and clean **Event Calendar** web app that allows users to **add, view, and manage events with notes**. Built with pure **HTML, CSS, and JavaScript**.
 
 ## 🔧 Features
 
