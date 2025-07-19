@@ -10,10 +10,43 @@ A simple and clean **Event Calendar** web app that allows users to **add, view, 
 - 🗑️ Delete individual events
 - 💾 Local storage support (your data stays saved in your browser)
 - 🎨 Responsive and minimal UI
-
-## 🚀 Demo
-
-> *(Add a GitHub Pages link or local preview screenshot here if available)*
-
 ## 📂 Project Structure
+
+event-calendar-app/
+├── index.html # Main HTML structure
+├── style.css # All styling (responsive & mobile-friendly)
+├── script.js # Calendar logic, event handling, localStorage
+└── README.md # Project documentation
+## 🛠️ How to Use
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/your-username/event-calendar-app.git
+   cd event-calendar-app
+
+    Open in browser
+    Just open index.html in any modern web browser.
+
+    Or if you have Live Server installed in VS Code:
+
+    Right-click index.html → Open with Live Server
+
+🧠 Concepts Used
+
+    DOM manipulation
+
+    Date and time handling in JS
+
+    Event delegation
+
+    LocalStorage API
+
+    Responsive design with CSS Grid & Flexbox
+
+🪪 Author
+
+Mayank Tiwari
+🐙 GitHub: @eaglemk21
+📜 License
+
 
